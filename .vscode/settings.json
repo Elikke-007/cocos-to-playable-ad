@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/web-mobile": true,
+    "**/dist": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  },
+  "editor.formatOnSave": true
+}
